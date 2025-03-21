@@ -15,7 +15,7 @@
 // Outer dimensions of box
 dim_x = 120;
 dim_y = 90;
-dim_z = 25;
+dim_z = 80;
 
 // Wall thickness
 wall_thickness = 2;
